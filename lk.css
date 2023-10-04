@@ -1,13 +1,13 @@
 h1 {
     text-align:center;
-    background-color: aqua;
+    color: orangered;
 }
 h2{
     text-align: center;
 }
 h3{
-    font-style: oblique;
-    background-color: blue;
+    font-size: 25px;
+    background-color: white;
     text-align: center;
 }
 
@@ -20,7 +20,7 @@ strong {
 }
 
 body {
-    background-color: blueviolet;
+    background-color: white ;
 }
 .imagem1 {
     width: 200px;
@@ -30,11 +30,11 @@ body {
 }
 
 .slaman {
-    background-color: forestgreen
+    background-color: white
 
 }
 .LK {
-   color: aqua;
+   color: white ;
     font-style: italic
 }
 .lista {
@@ -45,7 +45,12 @@ body {
 
 nav a{
     text-transform: uppercase;
-    color: blanchedalmond;
+    color:black;
     font-weight: 300;
     font-size: 100%;
+    padding: 3%;
+}
+
+h4{ 
+    font-size: 25px;
 }
